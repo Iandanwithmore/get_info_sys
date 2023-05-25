@@ -1,0 +1,6 @@
+subprocess
+platform
+psutil
+uuid
+pyperclip
+tk

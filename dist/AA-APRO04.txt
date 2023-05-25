@@ -1,0 +1,327 @@
+#Timestamp:2023-05-12 09:14:10.573683
+###Dirección IP
+>192.168.0.66
+###Nombre del host
+>AA-APRO04
+###Dominio
+>AA-APRO04.artatlasperu.com###Usuario
+>patrickfuentes###Dirección MAC
+>60:A5:E2:92:31:77
+###Espacio total en disco
+>476.02
+###Espacio utilizado en disco
+>424.93
+###Memoria RAM
+>7.69
+###Sistema operativo
+Windows10
+###Configuración DHCP
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : AA-APRO04
+   Sufijo DNS principal  . . . . . : artatlasperu.com
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+   Lista de b£squeda de sufijos DNS: artatlasperu.com
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : artatlasperu.com
+   Descripci¢n . . . . . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 60-A5-E2-92-31-73
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 60-A5-E2-92-31-74
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 62-A5-E2-92-31-73
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : artatlasperu.com
+   Descripci¢n . . . . . . . . . . . . . . . : Intel(R) Ethernet Connection (13) I219-V
+   Direcci¢n f¡sica. . . . . . . . . . . . . : C0-18-03-87-2C-ED
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ceb1:2b2b:fe42:12a7%18(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.66(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesi¢n obtenida. . . . . . . . . . . . : Friday, May 12, 2023 7:30:47 AM
+   La concesi¢n expira . . . . . . . . . . . : Friday, May 12, 2023 9:15:28 AM
+   Puerta de enlace predeterminada . . . . . : 192.168.0.6
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.0.5
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 281024515
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-29-F9-B6-7F-C0-18-03-87-2C-ED
+   Servidores DNS. . . . . . . . . . . . . . : 192.168.0.9
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Fortinet Virtual Ethernet Adapter (NDIS 6.30)
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-09-0F-FE-00-01
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 60-A5-E2-92-31-77
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+###System
+:::445
+192.168.0.66:139
+127.0.0.1:28385
+127.0.0.1:28390
+0.0.0.0:445
+###lsass
+0.0.0.0:49664
+:::49676
+0.0.0.0:49676
+:::49664
+###services
+:::49715
+0.0.0.0:49715
+###wininit
+:::49665
+0.0.0.0:49665
+###svchost
+:::135
+0.0.0.0:135
+:::49666
+0.0.0.0:49666
+:::51637
+0.0.0.0:51637
+:::49669
+0.0.0.0:49669
+0.0.0.0:5040
+###esrv_svc
+127.0.0.1:49350
+###AVGSvc
+127.0.0.1:12995
+127.0.0.1:12143
+::1:12110
+127.0.0.1:12025
+::1:12143
+::1:12995
+::1:12563
+127.0.0.1:27275
+::1:12993
+::1:12465
+::1:12119
+127.0.0.1:12119
+127.0.0.1:12110
+::1:12025
+127.0.0.1:12563
+127.0.0.1:12993
+::1:27275
+127.0.0.1:12465
+###spoolsv
+0.0.0.0:49675
+:::49675
+###AnyDesk
+0.0.0.0:7070
+###jhi_service
+::1:49695
+###ss_conn_service
+127.0.0.1:50911
+###ss_conn_service2
+127.0.0.1:50912
+###openerp-server
+0.0.0.0:8069
+###postgres
+:::5432
+0.0.0.0:5432
+###python
+0.0.0.0:8071
+###esrv
+127.0.0.1:49351
+###Code
+127.0.0.1:57825
+###GoogleDriveFS
+::1:7679
+
+###Windows Driver Package - HP Inc bemk_4_4_2_2945 ActivityMonitor  (03/21/2023 4.4.2.2945)
+03/21/2023 4.4.2.2945
+###Windows Driver Package - HP Inc. BrCow_4_4_2_2945 ActivityMonitor  (03/21/2023 4.4.2.2945)
+03/21/2023 4.4.2.2945
+###Windows Driver Package - HP Inc. BrFilter_4_4_2_2945 ActivityMonitor  (03/21/2023 4.4.2.2945)
+03/21/2023 4.4.2.2945
+###AVG AntiVirus Free
+23.4.3282
+###Docker Desktop
+4.13.1
+###EPSON L220 Series Printer Uninstall
+
+###EVGA Unleash RGB
+1.0.25.0
+###IBM ILOG CPLEX Optimization Studio (64 bit) 12.6.1
+12.6.1.0
+###KONICA MINOLTA Universal PCL
+
+###Centro de Mouse y Teclado de Microsoft
+2.7.9150
+###Mozilla Firefox (x64 es-ES)
+109.0
+###Mozilla Maintenance Service
+99.0.1
+###pgAdmin 4 version 6.15
+10
+###PostgreSQL 10 
+
+###Microsoft Project - es-es
+16.0.16327.20214
+###Microsoft Office Profesional Plus 2019 - es-es
+16.0.16327.20214
+###Microsoft Visio - es-es
+16.0.16327.20214
+###WinRAR 6.11 (64-bit)
+6.11.0
+###wkhtmltox 0.12.5-1
+12.0.40664
+###Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+3.10.7150.0
+###Python 3.10.7 Standard Library (64-bit)
+2.9.5.37980
+###HP Cloud Recovery
+3.10.7150.0
+###Python 3.10.7 Test Suite (64-bit)
+3.8.1.20230419
+###Nextcloud
+48.67.58427
+###Microsoft .NET Host - 6.0.16 (x64)
+10.0.40219
+###Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+3.10.7150.0
+###Python 3.10.7 Test Suite (64-bit symbols)
+8.0.3610.9
+###Java 8 Update 361 (64-bit)
+3.10.7150.0
+###Python 3.10.7 Standard Library (64-bit debug)
+7.0.5.0238
+###FortiClient VPN
+3.10.7150.0
+###Python 3.10.7 pip Bootstrap (64-bit)
+2.4.09084
+###Intel(R) Computing Improvement Program
+3.10.7150.0
+###Python 3.10.7 Core Interpreter (64-bit symbols)
+11.0.61030
+###Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+1.0.27
+###Windows Subsystem for Linux WSLg Preview
+3.10.7150.0
+###Python 3.10.7 Tcl/Tk Support (64-bit debug)
+9.0.30729.4148
+###Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+3.10.7150.0
+###Python 3.10.7 Documentation (64-bit)
+
+###QMK MSYS 1.6.0
+12.0.40664
+###Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+3.10.7150.0
+###Python 3.10.7 Add to Path (64-bit)
+22.220.0.4
+###Documentation Manager
+
+###Google Drive
+74.0.3.0
+###Microsoft Visual Studio Installer
+14.41.137.0
+###Python 2.7.9 (64-bit)
+3.10.7150.0
+###Python 3.10.7 Tcl/Tk Support (64-bit)
+3.10.7150.0
+###Python 3.10.7 Executables (64-bit symbols)
+48.67.58484
+###Microsoft Windows Desktop Runtime - 6.0.16 (x64)
+10.1.19041.685
+###Application Verifier x64 External Package
+1.66.4728.1
+###Intel© ArcT Control
+16.0.16327.20200
+###Office 16 Click-to-Run Licensing Component
+16.0.16130.20218
+###Office 16 Click-to-Run Extensibility Component
+16.0.16130.20218
+###Office 16 Click-to-Run Localization Component
+4.4.1.549
+###HP Wolf Security Application Support for Adobe Reader
+3.10.7150.0
+###Python 3.10.7 Tcl/Tk Support (64-bit symbols)
+3.10.7150.0
+###Python 3.10.7 Executables (64-bit debug)
+14.29.30139
+###Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30139
+3.10.7150.0
+###Python 3.10.7 Core Interpreter (64-bit debug)
+48.67.58427
+###Microsoft .NET Host FX Resolver - 6.0.16 (x64)
+4.4.2.3581
+###HP Wolf Security Application Support for Sure Sense
+3.10.7150.0
+###Python 3.10.7 Test Suite (64-bit debug)
+1.0.891.0
+###Nearby Share
+3.10.7150.0
+###Python 3.10.7 Standard Library (64-bit symbols)
+48.67.58427
+###Microsoft .NET Runtime - 6.0.16 (x64)
+3.10.7150.0
+###Python 3.10.7 Development Libraries (64-bit)
+3.10.7150.0
+###Python 3.10.7 Executables (64-bit)
+11.0.61030
+###Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+14.34.31931
+###Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.34.31931
+
+###Samsung USB Driver for Mobile Phones
+10.1.19041.685
+###Windows App Certification Kit Native Components
+3.10.7150.0
+###Python 3.10.7 Core Interpreter (64-bit)
+3.10.7150.0
+###Python 3.10.7 Development Libraries (64-bit debug)
+3.10.7150.0
+###Python 3.10.7 Utility Scripts (64-bit)
+14.34.31931
+###Microsoft Visual C++ 2022 X64 Additional Runtime - 14.34.31931
+4.4.2.2945
+###HP Wolf Security
+4.4.2.2848
+###HP Security Update Service
+11.0.19.378
+###HP Wolf Security - Console
+5.69.0.0
+###Microsoft Update Health Tools
+16.17.0
+###Node.js
+4.4.1.573
+###HP Wolf Security Application Support for Chrome 108.0.5359.179
+5.10.102.1
+###Windows Subsystem for Linux Update
+1.0.0.0
+###Epic Games Launcher Prerequisites (x64)
+
